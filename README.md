@@ -1,2 +1,7 @@
-# demo-lidoro
-Demo web para Lidoro — diseñada por eterlab.
+# Lidoro
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
